@@ -1,0 +1,20 @@
+{
+    "qa": {
+        "db": "mongodb urls",
+        "port": 1234,
+        "ACCESS_TOKEN_SECRET": "b2bd4d3a7f6edaf9ac305608eee5f9febac62940985480363c247f74abdd0f59",
+        "REFRESH_TOKEN_SECRET": "0734b5e0c04ba6cafe5a9018ac9ff95ce11c4c747bbfec103962d0af1402e8ee"
+    },
+    "uat": {
+        "db": "",
+        "port": 1234,
+        "ACCESS_TOKEN_SECRET": "b2bd4d3a7f6edaf9ac305608eee5f9febac62940985480363c247f74abdd0f59",
+        "REFRESH_TOKEN_SECRET": "0734b5e0c04ba6cafe5a9018ac9ff95ce11c4c747bbfec103962d0af1402e8ee"
+    },
+    "prod": {
+        "db": "",
+        "port": 1234,
+        "ACCESS_TOKEN_SECRET": "b2bd4d3a7f6edaf9ac305608eee5f9febac62940985480363c247f74abdd0f59",
+        "REFRESH_TOKEN_SECRET": "0734b5e0c04ba6cafe5a9018ac9ff95ce11c4c747bbfec103962d0af1402e8ee"
+    }
+}
